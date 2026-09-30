@@ -1,0 +1,96 @@
+{
+  "intersections": [
+    {
+      "id": "passion",
+      "label": "Passion",
+      "deckIds": ["love", "good"],
+      "description": "Ce que j'aime faire et ce dans quoi je suis déjà bon.",
+      "accent": "#ff9aae",
+      "questions": {
+        "today": [
+          "Quand ces deux éléments se combinent-ils naturellement dans ton travail ?",
+          "Raconte une situation où cette combinaison t'a rendu particulièrement efficace.",
+          "Qu'est-ce que cette force te permet de faire avec plus d'énergie que la moyenne ?",
+          "Dans quelle situation récente as-tu pris du plaisir précisément parce que tu pouvais mobiliser cette force ?",
+          "Qu'est-ce que les autres remarquent chez toi quand ces deux éléments sont réunis ?"
+        ],
+        "develop": [
+          "Qu'est-ce qu'il te manque pour utiliser plus souvent cette combinaison ?",
+          "Dans quelle situation aimerais-tu davantage exercer cette force parce qu'elle te donne de l'énergie ?",
+          "Quelle habitude pourrait t'aider à transformer davantage ce plaisir en vraie force ?",
+          "Qu'est-ce qui t'empêche aujourd'hui d'exploiter pleinement cette combinaison ?",
+          "Quel petit terrain d'entraînement pourrais-tu créer pour développer cette combinaison ?"
+        ]
+      }
+    },
+    {
+      "id": "mission",
+      "label": "Mission",
+      "deckIds": ["love", "useful"],
+      "description": "Ce que j'aime faire au service d'un problème auquel j'ai envie d'être utile.",
+      "accent": "#ffb882",
+      "questions": {
+        "today": [
+          "Quel problème concret as-tu déjà choisi de prendre en charge parce qu'il comptait vraiment pour toi ?",
+          "Qu'est-ce qui te donne envie de t'investir quand ce que tu aimes rencontre ce besoin ?",
+          "À quoi reconnais-tu qu'un problème mérite ton énergie, au-delà du fait qu'il soit intéressant ?",
+          "Raconte un moment où tu as senti que ton travail était à la fois stimulant et réellement utile.",
+          "Qu'est-ce que cette combinaison dit des problèmes sur lesquels tu aimes travailler ?"
+        ],
+        "develop": [
+          "Quel besoin aimerais-tu mieux comprendre pour rendre ce que tu aimes faire plus utile ?",
+          "Qu'est-ce qui transformerait cette envie en contribution plus concrète ?",
+          "Quel type de problème aimerais-tu rencontrer plus souvent pour développer cette combinaison ?",
+          "Comment pourrais-tu vérifier que ce qui te plaît répond réellement à un besoin ?",
+          "Quelle expérience te permettrait d'explorer davantage cette forme d'utilité ?"
+        ]
+      }
+    },
+    {
+      "id": "profession",
+      "label": "Profession",
+      "deckIds": ["good", "value"],
+      "description": "Ce dans quoi je suis bon et la manière dont cette force crée de la valeur.",
+      "accent": "#a894ff",
+      "questions": {
+        "today": [
+          "Sur quel résultat concret cette force a-t-elle eu le plus d'effet ?",
+          "Comment sais-tu que cette compétence crée réellement de la valeur et pas seulement de l'activité ?",
+          "Quand cette force t'a-t-elle permis de réduire un risque, gagner du temps ou améliorer un résultat ?",
+          "Pour quelle contribution liée à cette combinaison les autres viennent-ils naturellement te chercher ?",
+          "Quel exemple montrerait le mieux que cette force a une valeur professionnelle concrète ?"
+        ],
+        "develop": [
+          "Comment pourrais-tu rendre l'impact de cette force plus visible ou plus mesurable ?",
+          "Quel niveau supérieur de cette compétence ferait réellement changer la valeur que tu peux créer ?",
+          "Dans quel contexte aimerais-tu tester cette force sur un enjeu plus important ?",
+          "Qu'est-ce qui manque aujourd'hui pour que cette compétence produise davantage de valeur ?",
+          "Quelle compétence complémentaire amplifierait le plus cette combinaison ?"
+        ]
+      }
+    },
+    {
+      "id": "vocation",
+      "label": "Vocation",
+      "deckIds": ["useful", "value"],
+      "description": "L'utilité que je recherche et la manière dont elle peut produire une valeur concrète.",
+      "accent": "#8aefc8",
+      "questions": {
+        "today": [
+          "Raconte une situation où utilité pour l'utilisateur et valeur pour l'organisation allaient vraiment dans le même sens.",
+          "Quel impact te semble suffisamment utile et concret pour guider tes décisions produit ?",
+          "Comment vérifies-tu que la valeur créée ne se fait pas au détriment du besoin auquel tu veux répondre ?",
+          "Quand as-tu dû arbitrer entre ce qui semblait utile et ce qui semblait rentable ou mesurable ?",
+          "Qu'est-ce qui te fait dire qu'une amélioration est à la fois utile et réellement créatrice de valeur ?"
+        ],
+        "develop": [
+          "Qu'aimerais-tu mieux comprendre pour relier plus fortement utilité et valeur ?",
+          "Quel signal te permettrait de vérifier que tu progresses réellement sur ces deux dimensions ?",
+          "Sur quelle décision aimerais-tu mieux articuler impact utilisateur et impact business ?",
+          "Qu'est-ce qui t'aiderait à transformer ce besoin utile en résultat plus tangible ?",
+          "Quel apprentissage te manque pour mieux défendre cette combinaison dans une organisation ?"
+        ]
+      }
+    }
+  ]
+}

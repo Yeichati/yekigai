@@ -1,0 +1,126 @@
+{
+  "brand": {
+    "name": "Yekigai",
+    "meta": "ENTRETIEN PRODUCT · 15 MIN"
+  },
+  "intro": {
+    "kicker": "UN MINI-JEU POUR MIEUX SE COMPRENDRE",
+    "title": "Qu'est-ce qui fait de toi le PM que tu es ?",
+    "text": "Yekigai utilise les 4 dimensions de l'Ikigai pour faire émerger ce qui te donne de l'énergie, tes forces, l'utilité que tu recherches et la valeur que tu sais créer.",
+    "note": "Il n'y a ni score, ni bonne réponse. Les cartes servent à lancer la discussion.",
+    "startLabel": "Commencer la partie",
+    "heroLine1": "Ton métier.",
+    "heroLine2": "Ton Yekigai.",
+    "howKicker": "COMMENT ÇA MARCHE",
+    "howTitle": "4 choix. 2 croisements. 1 carte à emporter."
+  },
+  "rules": [
+    {
+      "number": "01",
+      "title": "Pioche",
+      "text": "3 cartes sont tirées au hasard dans chacun des 4 decks."
+    },
+    {
+      "number": "02",
+      "title": "Choisis",
+      "text": "Tu gardes 1 carte par dimension et tu expliques pourquoi elle te parle."
+    },
+    {
+      "number": "03",
+      "title": "Croise",
+      "text": "Tu choisis l'intersection qui te ressemble et celle que tu veux développer."
+    },
+    {
+      "number": "04",
+      "title": "Repars avec",
+      "text": "Tu complètes une phrase qui devient ta 5e carte Yekigai."
+    }
+  ],
+  "deckOrder": [
+    "love",
+    "good",
+    "useful",
+    "value"
+  ],
+  "steps": {
+    "selection": "Choisis tes 4 cartes",
+    "intersections": "Choisis tes intersections",
+    "discussion": "Discute autour de tes choix",
+    "final": "Crée ta 5e carte",
+    "result": "Ton Yekigai du jour"
+  },
+  "selection": {
+    "kicker": "ÉTAPE 1 · LES 4 DIMENSIONS",
+    "title": "Parmi ces 3 cartes, laquelle te ressemble le plus ?",
+    "hint": "Choisis une carte, puis raconte au recruteur ce qui te fait la choisir.",
+    "next": "Dimension suivante",
+    "finish": "Voir mes intersections",
+    "back": "Dimension précédente"
+  },
+  "intersections": {
+    "kicker": "ÉTAPE 2 · LES INTERSECTIONS",
+    "title": "Maintenant, croise tes choix.",
+    "todayInstruction": "D'abord, choisis l'intersection qui te ressemble le plus aujourd'hui.",
+    "developInstruction": "Puis choisis une autre intersection que tu aimerais davantage développer.",
+    "todayLabel": "ME RESSEMBLE AUJOURD'HUI",
+    "developLabel": "À DÉVELOPPER",
+    "continue": "Découvrir mes questions",
+    "reset": "Rechoisir",
+    "back": "Revoir mes cartes",
+    "todayBadge": "Aujourd'hui",
+    "developBadge": "À développer",
+    "todayEmpty": "À choisir sur le plateau",
+    "developEmpty": "À choisir ensuite"
+  },
+  "discussion": {
+    "kicker": "ÉTAPE 3 · LA DISCUSSION",
+    "title": "Deux questions. Pas de bonne réponse.",
+    "text": "Prends le temps d'échanger avec le recruteur. Ces questions ont été tirées parmi celles liées aux intersections que tu as choisies.",
+    "continue": "Créer ma 5e carte",
+    "note": "Le recruteur peut rebondir librement. Le jeu ne cherche pas une réponse parfaite : il cherche une conversation utile.",
+    "back": "Revoir mes intersections"
+  },
+  "finalCard": {
+    "kicker": "ÉTAPE 4 · TA SYNTHÈSE",
+    "title": "Qu'est-ce que tu emportes de cette discussion ?",
+    "text": "Choisis une amorce puis termine-la avec tes propres mots.",
+    "placeholder": "…complète la phrase avec ce que tu retiens",
+    "continue": "Créer ma carte",
+    "edit": "Modifier ma phrase",
+    "promptHeading": "1. Choisis ton début de phrase",
+    "completionHeading": "2. Termine-la",
+    "choosePromptFirst": "Choisis d’abord une amorce.",
+    "previewLabel": "MA 5E CARTE",
+    "previewEmpty": "Ta phrase apparaîtra ici.",
+    "back": "Revoir les questions"
+  },
+  "result": {
+    "kicker": "TA 5E CARTE",
+    "title": "Voilà ce que tu choisis d'emporter.",
+    "text": "Cette carte n'est pas un verdict : c'est une phrase que tu as formulée à partir de tes choix et de la discussion.",
+    "export": "Générer l'image de ma carte",
+    "generated": "Image générée et téléchargée ✓",
+    "restart": "Rejouer",
+    "cardLabel": "MA CARTE YEKIGAI",
+    "imageLabel": "MA 5E CARTE",
+    "imageKicker": "CE QUE JE RETIENS",
+    "imageNote": "Une phrase formulée pendant l'entretien.",
+    "imageFilename": "yekigai-ma-carte.png"
+  },
+  "footer": {
+    "text": "Réalisé avec amour par Yeita ❤️",
+    "url": "https://www.yeita.fr/",
+    "imageText": "Réalisé avec amour par Yeita"
+  },
+  "game": {
+    "cardsDrawnPerDeck": 3,
+    "cardsSelectedPerDeck": 1,
+    "intersectionsToSelect": 2,
+    "maxMinutes": 15
+  },
+  "board": {
+    "emptyDimension": "Ta carte viendra ici.",
+    "brand": "Yekigai",
+    "finalLabel": "MA CARTE"
+  }
+}

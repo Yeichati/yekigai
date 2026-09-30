@@ -1,0 +1,92 @@
+{
+  "decks": [
+    {
+      "id": "love",
+      "label": "J'aime",
+      "shortLabel": "J'aime",
+      "symbol": "♥",
+      "accent": "#ff7187",
+      "description": "Ce qui me donne spontanément de l'énergie dans le métier.",
+      "cards": [
+        { "id": "love-01", "text": "Transformer un problème flou en une question claire.", "theme": "Cadrage" },
+        { "id": "love-02", "text": "Comprendre pourquoi les utilisateurs font ce qu'ils font.", "theme": "Utilisateurs" },
+        { "id": "love-03", "text": "Chercher des signaux dans la donnée pour comprendre ce qui se passe.", "theme": "Data" },
+        { "id": "love-04", "text": "Imaginer où un produit pourrait aller dans plusieurs mois ou années.", "theme": "Vision" },
+        { "id": "love-05", "text": "Arbitrer quand tout semble important.", "theme": "Priorisation" },
+        { "id": "love-06", "text": "Construire une solution avec des designers et des développeurs.", "theme": "Collectif" },
+        { "id": "love-07", "text": "Tester rapidement une idée plutôt que débattre longtemps.", "theme": "Expérimentation" },
+        { "id": "love-08", "text": "Simplifier une expérience ou un sujet devenu trop complexe.", "theme": "Simplicité" },
+        { "id": "love-09", "text": "Faire progresser une équipe jusqu'à ce qu'elle ait moins besoin de moi.", "theme": "Équipe" },
+        { "id": "love-10", "text": "Raconter une direction produit et donner envie de la suivre.", "theme": "Narratif" },
+        { "id": "love-11", "text": "Voir concrètement qu'une décision produit change quelque chose.", "theme": "Impact" },
+        { "id": "love-12", "text": "Plonger dans un domaine complexe jusqu'à vraiment le comprendre.", "theme": "Apprentissage" }
+      ]
+    },
+    {
+      "id": "good",
+      "label": "Je suis bon pour",
+      "shortLabel": "Je suis bon",
+      "symbol": "↗",
+      "accent": "#8d79ff",
+      "description": "Les forces sur lesquelles je peux réellement m'appuyer aujourd'hui.",
+      "cards": [
+        { "id": "good-01", "text": "Reformuler un problème jusqu'à ce qu'il devienne actionnable.", "theme": "Cadrage" },
+        { "id": "good-02", "text": "Faire parler les utilisateurs sans leur faire dire ce que j'espère entendre.", "theme": "Recherche" },
+        { "id": "good-03", "text": "Faire émerger une décision à partir de données imparfaites.", "theme": "Décision" },
+        { "id": "good-04", "text": "Prioriser et assumer clairement ce qui ne sera pas fait.", "theme": "Arbitrage" },
+        { "id": "good-05", "text": "Aligner des personnes qui n'ont pas les mêmes intérêts.", "theme": "Influence" },
+        { "id": "good-06", "text": "Travailler avec la tech sans transformer la relation en passage de commandes.", "theme": "Tech" },
+        { "id": "good-07", "text": "Découper une grosse idée en petits paris testables.", "theme": "Expérimentation" },
+        { "id": "good-08", "text": "Expliquer simplement un sujet compliqué.", "theme": "Communication" },
+        { "id": "good-09", "text": "Challenger une hypothèse sans bloquer l'équipe.", "theme": "Challenge" },
+        { "id": "good-10", "text": "Créer un cadre quand l'équipe manque de repères.", "theme": "Structuration" },
+        { "id": "good-11", "text": "Faire avancer l'exécution sans perdre de vue le problème initial.", "theme": "Delivery" },
+        { "id": "good-12", "text": "Créer les conditions pour que le collectif trouve une meilleure réponse.", "theme": "Facilitation" }
+      ]
+    },
+    {
+      "id": "useful",
+      "label": "Je veux être utile à",
+      "shortLabel": "Je veux être utile",
+      "symbol": "✦",
+      "accent": "#53e6ab",
+      "description": "Les problèmes auxquels j'ai envie que mon travail serve vraiment.",
+      "cards": [
+        { "id": "useful-01", "text": "Aider des utilisateurs à accomplir quelque chose plus simplement.", "theme": "Simplicité" },
+        { "id": "useful-02", "text": "Éviter qu'une équipe construise quelque chose dont personne n'a besoin.", "theme": "Risque" },
+        { "id": "useful-03", "text": "Aider une équipe à prendre de meilleures décisions malgré l'incertitude.", "theme": "Décision" },
+        { "id": "useful-04", "text": "Faire gagner du temps sur une tâche pénible ou répétitive.", "theme": "Efficacité" },
+        { "id": "useful-05", "text": "Rendre un produit plus accessible à des personnes qu'il exclut aujourd'hui.", "theme": "Accessibilité" },
+        { "id": "useful-06", "text": "Créer de la confiance dans un produit ou un service difficile à comprendre.", "theme": "Confiance" },
+        { "id": "useful-07", "text": "Résoudre les petits irritants quotidiens que tout le monde finit par accepter.", "theme": "Irritants" },
+        { "id": "useful-08", "text": "Améliorer un moment critique du parcours utilisateur.", "theme": "Parcours" },
+        { "id": "useful-09", "text": "Donner un cap commun à des équipes qui avancent dans des directions différentes.", "theme": "Alignement" },
+        { "id": "useful-10", "text": "Rendre les données compréhensibles pour permettre d'agir.", "theme": "Data" },
+        { "id": "useful-11", "text": "Faire émerger des besoins qui sont encore peu visibles ou mal exprimés.", "theme": "Découverte" },
+        { "id": "useful-12", "text": "Aider des personnes à adopter un nouvel usage sans leur compliquer la vie.", "theme": "Adoption" }
+      ]
+    },
+    {
+      "id": "value",
+      "label": "Je crée de la valeur par",
+      "shortLabel": "Je crée de la valeur",
+      "symbol": "◆",
+      "accent": "#efff75",
+      "description": "Les mécanismes par lesquels mon travail produit une valeur professionnelle concrète.",
+      "cards": [
+        { "id": "value-01", "text": "Choisir les problèmes qui méritent réellement qu'on investisse dessus.", "theme": "Focus" },
+        { "id": "value-02", "text": "Réduire le risque avant qu'une équipe investisse beaucoup de temps et d'argent.", "theme": "Risque" },
+        { "id": "value-03", "text": "Faire progresser l'activation ou l'adoption d'un produit.", "theme": "Adoption" },
+        { "id": "value-04", "text": "Améliorer la rétention en résolvant les vraies causes de départ.", "theme": "Rétention" },
+        { "id": "value-05", "text": "Simplifier une expérience pour réduire l'effort demandé aux utilisateurs.", "theme": "Expérience" },
+        { "id": "value-06", "text": "Aligner besoins utilisateurs, contraintes techniques et objectifs business.", "theme": "Équilibre" },
+        { "id": "value-07", "text": "Donner une direction suffisamment claire pour aider les équipes à décider.", "theme": "Direction" },
+        { "id": "value-08", "text": "Accélérer l'apprentissage pour éviter de rester trop longtemps sur une mauvaise piste.", "theme": "Apprentissage" },
+        { "id": "value-09", "text": "Transformer des données et des retours terrain en décisions concrètes.", "theme": "Insight" },
+        { "id": "value-10", "text": "Fluidifier le delivery sans sacrifier le sens du produit.", "theme": "Exécution" },
+        { "id": "value-11", "text": "Identifier de nouvelles opportunités de produit ou de business.", "theme": "Opportunité" },
+        { "id": "value-12", "text": "Mesurer l'impact et arrêter ce qui ne produit pas les résultats attendus.", "theme": "Impact" }
+      ]
+    }
+  ]
+}

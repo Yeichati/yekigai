@@ -1,0 +1,12 @@
+{
+  "prompts": [
+    { "id": "best", "prefix": "Je suis à mon meilleur quand" },
+    { "id": "energy", "prefix": "Ce qui me donne le plus d'énergie dans mon travail, c'est quand" },
+    { "id": "value", "prefix": "J'apporte le plus de valeur quand" },
+    { "id": "grow", "prefix": "J'ai envie de progresser pour mieux" },
+    { "id": "become", "prefix": "Le PM que j'ai envie de devenir est celui qui" },
+    { "id": "realize", "prefix": "Je me suis rendu compte aujourd'hui que" },
+    { "id": "more", "prefix": "Dans mes prochaines expériences, j'ai envie de faire davantage de place à" },
+    { "id": "remember", "prefix": "Ce que j'ai envie de retenir pour la suite, c'est que" }
+  ]
+}
